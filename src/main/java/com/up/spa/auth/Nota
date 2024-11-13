@@ -1,0 +1,5 @@
+El Auth lo hice con el concepto de arquitectura limpia "hexgaonal" con Vertical Slicing
+Basado en https://medium.com/@oliveraluis11/arquitectura-hexagonal-con-spring-boot-parte-1-57b797eca69c
+Lo malo es que son muchas carpetas y lleva mucho tiempo.
+
+MONGO_PASS=ceZNZfBMb9iQ0fi0;MONGO_USER=upProyect;security.jwt.expiration-time=60;security.jwt.secret-key=gonV8FTMZvfZ1eWsuYYg2hyYlcXt1JC7yrbO1yp1rCk=;MONGO_DB=spa_up_prog_avanzada
